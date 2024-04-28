@@ -1,0 +1,51 @@
+
+body {
+    background-color: #FEF5EF;
+    
+}
+
+.container { width: 95%;
+height: 90%;
+margin: auto;
+margin-top; 10px;
+
+    
+    display: flex;
+    text-align: center;
+}
+
+.qoutes {
+ border: 15px solid #584B53;
+ border-radius: 7px;
+height: 600px;
+width: 1000px;
+margin: auto;
+margin-left: 25px;
+margin-right: 25px;
+margin-top: 20px;
+margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+     justify-content: center;
+    justify-items:center;
+    background-color: #D6E3F8;
+    color: #313638;
+    }
+    .quote h1{
+    padding: 1px;
+        
+    }
+    .btn btn-primary{
+    border: none;
+        border-radius: 5px;
+        font-size: 35px;
+    }
+  
+  .p{
+  color: white;
+      background-color: #274156;
+      text-align: center;
+  }
+        
+
+
